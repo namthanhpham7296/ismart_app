@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "145057714148",
+    "project_id": "ismart-93756",
+    "storage_bucket": "ismart-93756.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145057714148:android:d6d2e67b877697ec01c1f1",
+        "android_client_info": {
+          "package_name": "com.example.ismart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145057714148-pnf69tps3jagd9m1oj8qcg24rmo9jeva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA6Tn6V0w9KvZaoS6NGY_BdeSVzJitVZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145057714148-pnf69tps3jagd9m1oj8qcg24rmo9jeva.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "145057714148-7fr80ahjoj0totk27kcdpv7vaujilgsd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ismartapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
