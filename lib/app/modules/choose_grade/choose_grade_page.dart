@@ -23,7 +23,7 @@ class ChooseGradePage extends StatelessWidget {
               ),
               ListView.builder(
                 shrinkWrap: true,
-                itemCount: 5,
+                itemCount: 1,
                 itemBuilder: (BuildContext context, int index) {
                   return Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
