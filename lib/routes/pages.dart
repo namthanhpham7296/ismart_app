@@ -4,6 +4,7 @@ import 'package:ismart_app/app/modules/auth/login_page.dart';
 import 'package:ismart_app/app/modules/auth/forget_password_page.dart';
 import 'package:ismart_app/app/modules/auth/send_forget_password_page.dart';
 import 'package:ismart_app/app/modules/choose_grade/choose_grade_page.dart';
+import 'package:ismart_app/app/modules/choose_grade/setup_account_user.dart';
 import 'package:ismart_app/app/modules/home/home_page.dart';
 import 'package:ismart_app/app/modules/intro/intro_bliding.dart';
 import 'package:ismart_app/app/modules/intro/intro_page.dart';
@@ -42,6 +43,10 @@ abstract class AppPages {
      GetPage(
       name: Routes.CHOOSE_GRADE,
       page: () => ChooseGradePage(),
+    ),
+     GetPage(
+      name: Routes.SETUP_ACCOUNT_USER,
+      page: () => SetupAccountUserPage(),
     )
   ];
 }
